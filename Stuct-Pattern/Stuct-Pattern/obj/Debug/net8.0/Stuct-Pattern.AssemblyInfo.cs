@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stuct-Pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a16dc8f5a831eccf6eee14ee6f61f96ed8a5d7dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stuct-Pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stuct-Pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

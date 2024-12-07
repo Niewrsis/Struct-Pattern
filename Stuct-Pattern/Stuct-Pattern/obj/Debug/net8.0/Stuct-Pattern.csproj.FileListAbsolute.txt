@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\bin\Debug\net8.0\Stuct-Pattern.exe
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\bin\Debug\net8.0\Stuct-Pattern.deps.json
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\bin\Debug\net8.0\Stuct-Pattern.runtimeconfig.json
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\bin\Debug\net8.0\Stuct-Pattern.dll
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\bin\Debug\net8.0\Stuct-Pattern.pdb
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.AssemblyInfo.cs
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.sourcelink.json
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.dll
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\refint\Stuct-Pattern.dll
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.pdb
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\Stuct-Pattern.genruntimeconfig.cache
+C:\Users\User\source\repos\Struct\Struct-Pattern\Stuct-Pattern\Stuct-Pattern\obj\Debug\net8.0\ref\Stuct-Pattern.dll

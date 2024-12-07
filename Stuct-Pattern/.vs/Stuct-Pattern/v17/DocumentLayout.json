@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\stuct-pattern\\stuct-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\struct\\struct-pattern\\stuct-pattern\\stuct-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|solutionrelative:stuct-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\stuct-pattern\\stuct-pattern\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\struct\\struct-pattern\\stuct-pattern\\stuct-pattern\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|solutionrelative:stuct-pattern\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\stuct-pattern\\stuct-pattern\\musicstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\struct\\struct-pattern\\stuct-pattern\\stuct-pattern\\musicstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|solutionrelative:stuct-pattern\\musicstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\stuct-pattern\\stuct-pattern\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\struct\\struct-pattern\\stuct-pattern\\stuct-pattern\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|solutionrelative:stuct-pattern\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\stuct-pattern\\stuct-pattern\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\struct\\struct-pattern\\stuct-pattern\\stuct-pattern\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|solutionrelative:stuct-pattern\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\stuct-pattern\\stuct-pattern\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|c:\\users\\user\\source\\repos\\struct\\struct-pattern\\stuct-pattern\\stuct-pattern\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F29DEB-D8D7-4C4E-AE10-E38A74B6FE58}|Stuct-Pattern\\Stuct-Pattern.csproj|solutionrelative:stuct-pattern\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\Program.cs",
               "RelativeDocumentMoniker": "Stuct-Pattern\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\Program.cs",
               "RelativeToolTip": "Stuct-Pattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T19:39:13.078Z",
               "EditorCaption": ""
@@ -57,66 +57,61 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SmartHome.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\SmartHome.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\SmartHome.cs",
               "RelativeDocumentMoniker": "Stuct-Pattern\\SmartHome.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\SmartHome.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\SmartHome.cs",
               "RelativeToolTip": "Stuct-Pattern\\SmartHome.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:37:55.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:37:55.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MusicStation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\MusicStation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\MusicStation.cs",
               "RelativeDocumentMoniker": "Stuct-Pattern\\MusicStation.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\MusicStation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\MusicStation.cs",
               "RelativeToolTip": "Stuct-Pattern\\MusicStation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:37:39.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:37:39.527Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AirConditioner.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\AirConditioner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\AirConditioner.cs",
               "RelativeDocumentMoniker": "Stuct-Pattern\\AirConditioner.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\AirConditioner.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\AirConditioner.cs",
               "RelativeToolTip": "Stuct-Pattern\\AirConditioner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:37:26.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:37:26.504Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TV.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\TV.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\TV.cs",
               "RelativeDocumentMoniker": "Stuct-Pattern\\TV.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\TV.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\TV.cs",
               "RelativeToolTip": "Stuct-Pattern\\TV.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:37:13.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:37:13.901Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Light.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\Light.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\Light.cs",
               "RelativeDocumentMoniker": "Stuct-Pattern\\Light.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Stuct-Pattern\\Stuct-Pattern\\Light.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Struct\\Struct-Pattern\\Stuct-Pattern\\Stuct-Pattern\\Light.cs",
               "RelativeToolTip": "Stuct-Pattern\\Light.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:36:55.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:36:55.467Z"
             }
           ]
         }
